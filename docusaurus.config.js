@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Ratnet Documentation',
   tagline: 'Encrypted Mesh Messaging',
-  url: 'https://awgh.github.io/ratnet/',
-  baseUrl: '/',
+  url: 'https://awgh.github.io/',
+  baseUrl: '/ratnet-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/awgh/ratnet/tree/gh-pages',
+          editUrl: 'https://github.com/awgh/ratnet-docs/tree/gh-pages',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/awgh/ratnet/tree/gh-pages',
+            'https://github.com/awgh/ratnet-docs/tree/gh-pages',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
