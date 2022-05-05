@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkratnet=self.webpackChunkratnet||[]).push([[131],{5618:function(a){a.exports=JSON.parse('{"allTagsPath":"/ratnet-docs/blog/tags","name":"hola","count":1,"permalink":"/ratnet-docs/blog/tags/hola"}')}}]);
