@@ -47,13 +47,10 @@ Listen takes two arguments:
 
     This flag determines whether this transport is currently being used to access the administrative backend API of ratnet, rather than the public API.  Should default to false, true is insecure on a public bus!  Transport implementations will only use this flag to determine how they call into the ratnet node, as shown here:
 
-    ```go title="https://github.com/awgh/ratnet/blob/master/transports/tls/tls.go#L130"
-    	if adminMode {
-			result, err = node.AdminRPC(h, *a)
-		} else {
-			result, err = node.PublicRPC(h, *a)
-		}
- 
+    ```go reference
+	https://github.com/awgh/ratnet/blob/master/transports/tls/tls.go#L130-L135
+	```
+	
 
 ## Name
 ```go "
