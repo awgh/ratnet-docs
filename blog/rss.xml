@@ -13,8 +13,8 @@
             <link>https://awgh.github.io/ratnet-docs/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Sat, 07 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Test post]]></description>
-            <content:encoded><![CDATA[<p>Test post</p>]]></content:encoded>
+            <description><![CDATA[Developer docs are coming!]]></description>
+            <content:encoded><![CDATA[<p>Developer docs are coming!</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>

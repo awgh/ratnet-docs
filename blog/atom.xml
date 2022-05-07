@@ -12,8 +12,8 @@
         <id>first-blog-post</id>
         <link href="https://awgh.github.io/ratnet-docs/blog/first-blog-post"/>
         <updated>2022-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Test post]]></summary>
-        <content type="html"><![CDATA[<p>Test post</p>]]></content>
+        <summary type="html"><![CDATA[Developer docs are coming!]]></summary>
+        <content type="html"><![CDATA[<p>Developer docs are coming!</p>]]></content>
         <author>
             <name>awgh</name>
             <uri>https://github.com/awgh</uri>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkratnet=self.webpackChunkratnet||[]).push([[473],{4469:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-blog","id":"default"}}')}}]);

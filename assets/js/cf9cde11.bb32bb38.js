@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkratnet=self.webpackChunkratnet||[]).push([[74],{9239:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/ratnet-docs/blog/tags/docusaurus","allTagsPath":"/ratnet-docs/blog/tags","count":1}')}}]);
