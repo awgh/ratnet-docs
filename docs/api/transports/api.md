@@ -22,7 +22,6 @@ type Transport interface {
 }
 
 type JSON interface {
-    // MarshalJSON : Serialize this type to JSON
     MarshalJSON() (b []byte, e error)
 }
 ```
@@ -89,3 +88,4 @@ If you're wondering what SetByteLimit is even used for... it's currently useful 
 MarshalJSON() (b []byte, e error)
 ```
 
+Serialize this type to JSON.
